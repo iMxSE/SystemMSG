@@ -1,0 +1,10 @@
+name: System Messages
+version: 1.0
+main: us.imarco.msg.Main
+author: iMarco
+description: Kohi messages
+
+commands:
+    msg:
+       aliases: [msg,m,tell]
+    r:
